@@ -51,7 +51,7 @@ Atualmente estou desenvolvendo projetos voltados para:
 
 Se você precisa de alguém para desenvolver ideias, criar estratégias ou automatizar processos:
 
-📩 Me envie um e-mail: [contatoprofissionaljps@gmail.com]  
+📩 Me envie um e-mail: contatoprofissionaljps@gmail.com
 🌐 Acesse meu site: https://joaopaulomartech.com.br(https://joaopaulomartech.com.br)  
 🔗 Conecte-se comigo no [LinkedIn] [https://linkedin.com/in/joaopaulodacostasantos](https://www.linkedin.com/in/joaopaulodacostasantos/)
 
