@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
+<h1 align="center">👋 Olá, eu sou João Paulo Santos</h1>
 
 <p align="center">
   🚀 Especialista em Marktech & Desenvolvedor Web Fullstack JavaScript <br>
@@ -9,7 +9,7 @@
 
 ## 💡 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e, com o tempo, percebi que unir tecnologia com estratégia de crescimento era o caminho ideal para gerar mais resultados.  
+Sou formado em **Análise e Desenvolvimento de Sistemas** e, com o tempo, percebi que unir tecnologia com marketing digital era o caminho ideal para gerar mais resultados.  
 Por isso, investi em uma **pós-graduação em Marketing e Growth**, onde aprofundei meus conhecimentos em:
 
 - Estratégias de aquisição e retenção de clientes
@@ -51,9 +51,9 @@ Atualmente estou desenvolvendo projetos voltados para:
 
 Se você precisa de alguém para desenvolver ideias, criar estratégias ou automatizar processos:
 
-📩 Me envie um e-mail: [seuemail@dominio.com]  
-🌐 Acesse meu site: [https://seusite.com](https://seusite.com)  
-🔗 Conecte-se comigo no [LinkedIn](https://linkedin.com/in/seuperfil)
+📩 Me envie um e-mail: [contatoprofissionaljps@gmail.com]  
+🌐 Acesse meu site: [https://joaopaulomartech.com.br](https://joaopaulomartech.com.br)  
+🔗 Conecte-se comigo no [LinkedIn]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/joaopaulodacostasantos/)
 
 ---
 
