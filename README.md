@@ -53,7 +53,7 @@ Se você precisa de alguém para desenvolver ideias, criar estratégias ou autom
 
 📩 Me envie um e-mail: [contatoprofissionaljps@gmail.com]  
 🌐 Acesse meu site: [https://joaopaulomartech.com.br](https://joaopaulomartech.com.br)  
-🔗 Conecte-se comigo no [LinkedIn]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/joaopaulodacostasantos/)
+🔗 Conecte-se comigo no [LinkedIn]([https://linkedin.com/in/joaopaulosantos](https://www.linkedin.com/in/joaopaulodacostasantos/)
 
 ---
 
